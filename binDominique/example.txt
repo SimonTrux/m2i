@@ -1,0 +1,7 @@
+Une ligne commençant par une majuscule et terminant par un point.
+une ligne finissant par un point.
+Une ligne commençant par une majuscule
+Une liste de valeurs séparées par un double-point
+12:1234:25:36.5:22
+135:1.5:22:24:18:111
+5.1:2.5:13:12:11
