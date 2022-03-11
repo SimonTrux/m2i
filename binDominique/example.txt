@@ -1,3 +1,4 @@
+Ceci est un fichier d'exemple.
 Une ligne commençant par une majuscule et terminant par un point.
 une ligne finissant par un point.
 Une ligne commençant par une majuscule
